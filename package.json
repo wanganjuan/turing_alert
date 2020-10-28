@@ -1,0 +1,23 @@
+{
+  "name": "turing_dialog",
+  "version": "1.0.3",
+  "description": "",
+  "license": "MIT",
+  "private": false,
+  "main": "dist/t-dialog.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {
+    "style-loader": "^1.3.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^4.1.0",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
